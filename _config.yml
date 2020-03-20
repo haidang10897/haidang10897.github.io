@@ -480,8 +480,8 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         onload='
           new Valine({
             "el": ".v",
-            "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-            "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
+            "appId": "sO6yyezoNiQS0dj3I4FdokPC-MdYXbMMI",
+            "appKey": "WWRQbW9Fy0kjX31NCLtUmCHf",
             "notify": "true",
             "verify": "true",
             "avatar": "identicon",
