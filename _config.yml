@@ -649,7 +649,7 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
 
 # 以下为 githubpage上不可修改的参数，见<https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
 #lsi: false # 为相关文章生成索引
-#safe: true # 禁用自定义插件
+safe: true # 禁用自定义插件
 source: /bacdau # [your repo's top level directory] # Jekyll 读取文件的路径
 #incremental: false # 增量生成
 #highlighter: rouge # 代码高亮器
