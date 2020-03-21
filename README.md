@@ -1,22 +1,26 @@
-# a星合の空
+# よろしくお願いします
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧~
+Chào mừng đến với blog cá nhân của Bắc Đẩu aka Đăng Đăng aka Shimakaze aka 魁の光
 
 <!-- slide -->
 
-## 我的一些联系方式
+## Giới thiệu
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Đây là nơi lưu trữ những tài liệu do Đẩu sưu tầm và sáng tạo được. Có rất nhiều thứ nhưng có lẽ sẽ lười up lên <(")
+- Những tài liệu hiện tại bao gồm:
+	- Tài liệu vẽ (Của Wlop, Krenz, EOPS, ...)
+	- Một số tác phẩm tự vẽ.
+	- Reference vẽ.
+	- Tài liệu về Tàu Chiến.
+	- Một số tài liệu về Martial art
+	- Một số ít tài liệu về IT.
 
 <!-- slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[haidangtran97@gmail.com](mailto:haidangtran97@gmail.com)**
+- Facebook: **tran.h.dang.54**
+- Twitter: **haidang10897**
 
 <!-- slide -->
 
