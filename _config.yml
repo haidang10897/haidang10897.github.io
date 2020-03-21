@@ -27,8 +27,8 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
  #   marginwidth="0"
  #   marginheight="0"
  # ></iframe>
-url: "" # url của blog https://haidang10897.github.io/
-baseurl: "bacdau" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
+url: "https://haidang10897.github.io/" # url của blog https://haidang10897.github.io/
+baseurl: "/bacdau" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
@@ -616,7 +616,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           src='https://qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js'
           async='async'
           charset='utf-8'
-          homePageUrl='/'
+          homePageUrl='/bacdau'
           homePageName='回到我的主页'
         ></script>
 
@@ -634,7 +634,7 @@ remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@3.1.0 #使用固定版�
 readme_index: # 缺失index.md和index.html时，使用README.md代替之
   with_frontmatter: true # 支持带有yaml头的README
 
-permalink: /bacdau/_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
+permalink: /_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
 # timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
 # future: false # 不发布时间在未来的文章
 
