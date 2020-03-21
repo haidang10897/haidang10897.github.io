@@ -246,7 +246,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         img: https://i.imgur.com/iG111er.png # 头像的地址
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> Trang chủ'
-          href: //bacdau
+          href: /bacdau
         - title: '<i class="fas fa-comments fa-fw"></i> Comment'
           href: /bacdau/comments
         - title: '<i class="fas fa-tags fa-fw"></i> Tag'
@@ -634,7 +634,7 @@ remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@3.1.0 #使用固定版�
 readme_index: # 缺失index.md和index.html时，使用README.md代替之
   with_frontmatter: true # 支持带有yaml头的README
 
-permalink: /_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
+permalink: /bacdau/_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
 # timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
 # future: false # 不发布时间在未来的文章
 
