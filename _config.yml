@@ -28,7 +28,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
  #   marginheight="0"
  # ></iframe>
 url: "" # url của blog https://haidang10897.github.io/
-baseurl: "bacdau" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
+baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
   default:
@@ -94,7 +94,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         />
         <script
           async="async"
-          src=/bacdau/pio.min.js
+          src=/pio.min.js
           
           onload='
             if (screen.width > screen.height)
@@ -118,7 +118,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 "mode": "fixed",
                 "hidden": true,
                 "content": {
-                  "link": ["https://haidang10897.github.io/bacdau"],
+                  "link": ["https://haidang10897.github.io/"],
                   "skin": ["Muốn em cosplay ai khác à?", "Để em nghỉ đi"],
                   "custom": [{
                     "selector": "a",
@@ -246,15 +246,15 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         img: https://i.imgur.com/iG111er.png # 头像的地址
       nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
         - title: '<i class="fas fa-home fa-fw"></i> Trang chủ'
-          href: /bacdau
+          href: /
         - title: '<i class="fas fa-comments fa-fw"></i> Comment'
-          href: /bacdau/comments
+          href: /comments
         - title: '<i class="fas fa-tags fa-fw"></i> Tag'
-          href: /bacdau/tags
+          href: /tags
         - title: '<i class="fas fa-archive fa-fw"></i> Lưu trữ'
-          href: /bacdau/archive
+          href: /archive
         - title: '<i class="fas fa-coffee fa-fw"></i> Merger'
-          href: /bacdau/merger
+          href: /merger
       simple_jekyll_search: # 侧边栏的全站搜索
         enable: true
         full_text_search: false # 可能导致缓慢的搜索和加载
@@ -272,7 +272,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             async='async'
             onload='
               SimpleJekyllSearch({
-                json: "/bacdau/assets/simple-jekyll-search/search.json",
+                json: "/assets/simple-jekyll-search/search.json",
                 searchInput: document.getElementById("sidebar-search-input"),
                 resultsContainer: document.getElementById("sidebar-search-results-container"),
                 searchResultTemplate: `<li><a href="{url}">{title}</a></li>`,
@@ -616,7 +616,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           src='https://qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js'
           async='async'
           charset='utf-8'
-          homePageUrl='/bacdau'
+          homePageUrl='/'
           homePageName='回到我的主页'
         ></script>
 
@@ -649,8 +649,8 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
 
 # 以下为 githubpage上不可修改的参数，见<https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
 #lsi: false # 为相关文章生成索引
-safe: true # 禁用自定义插件
-source: /bacdau # [your repo's top level directory] # Jekyll 读取文件的路径
+#safe: true # 禁用自定义插件
+#source:  # [your repo's top level directory] # Jekyll 读取文件的路径
 #incremental: false # 增量生成
 #highlighter: rouge # 代码高亮器
 #gist:
