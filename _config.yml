@@ -634,7 +634,7 @@ remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@3.1.0 #使用固定版�
 readme_index: # 缺失index.md和index.html时，使用README.md代替之
   with_frontmatter: true # 支持带有yaml头的README
 
-permalink: ./_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
+permalink: /_posts/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
 # timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
 # future: false # 不发布时间在未来的文章
 
@@ -650,7 +650,7 @@ kramdown: # 见<https://kramdown.gettalong.org/options.html>
 # 以下为 githubpage上不可修改的参数，见<https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
 #lsi: false # 为相关文章生成索引
 #safe: true # 禁用自定义插件
-source: bacdau # [your repo's top level directory] # Jekyll 读取文件的路径
+source: /bacdau # [your repo's top level directory] # Jekyll 读取文件的路径
 #incremental: false # 增量生成
 #highlighter: rouge # 代码高亮器
 #gist:
