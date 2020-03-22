@@ -8,7 +8,7 @@ tags: Tàu_IJN
 - [II. Tàu chiến](#2)
 - [III. Tàu phụ trợ](#3)
 
-<a name=1></a>
+<a name="1"></a>
 
 # I. Một số từ đặc biệt
 Kan (艦) = Hạm = Vessel <br>
@@ -21,7 +21,7 @@ Small vessel - 小艦 (Shōkan - しょうかん): Tiểu hạm <br>
 
 ![](/assets/image/2020-03-22-1.png)
 
-<a name=2></a> <br>
+<a name="2"></a> <br>
 
 # II. Tàu chiến
 Aircraft carrier  - 航空母艦 ( Kōkūbokan - こうくうぼかん): Hàng không mẫu hạm: Tàu sân bay <br>
@@ -64,7 +64,7 @@ Transport ship  - 運送船 ( Unsōsen - うんそうせん ): Vận tống thuy
 Transport vessel - 運送艦 ( Unsōkan - うんそうかん): Vận Tống Hạm - Tàu vận tải <br>
 
 
-<a name=3></a> <br>
+<a name="3"></a> <br>
 
 # III. Tàu phụ trợ
 Auxiliary minesweeper - 掃海特務艇 ( Sōkaitokumutei - そうかいとくむてい ): Tảo hải đặc vụ đĩnh - Tàu dò thủy lôi phụ trợ. <br>

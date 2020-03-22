@@ -387,11 +387,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             background-color: rgba(0, 0, 0, 0);
           }
         </style>
-      - | # 增加宽屏下的显示内容，黄 金 分 割 比
+      - | # 增加宽屏下的显示内容，黄 金 分 割 比 61.8%
         <style>
           @media (min-width: 56em) {
             .container {
-              max-width: 61.8%;
+              max-width: 80%; 
             }
           }
         </style>
