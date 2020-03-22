@@ -490,7 +490,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             "highlight": true,
             "avatarForce": false,
             "recordIP": true,
-            "region": "us"
+            "region": "us",
             "lang": "en"
           })'
       ></script>
@@ -533,8 +533,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
         <script>
           var usage = "payment";
+          var wechat = "";
+          var alipay = "";
+          var tenpay = "";
           var paypal = "https://paypal.me/haidang10897";
           var myname = "Bắc Đẩu";
+          var multilingual = false;
           var profile = "https://i.imgur.com/iG111er.png";
           var title = "Chọn phương thức thanh toán";
           var subtitle = "Thực hiện theo hướng dẫn để thanh toán cho" + myname;
