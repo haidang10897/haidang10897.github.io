@@ -470,12 +470,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             })'
         ></script>
   comments: # 留言页
-    alert: | # 配置评论区，appId和appKey需要换成你自己的，见<https://valine.js.org/configuration.html>
-      <div class="v">
-        <i class="fas fa-spinner fa-pulse"></i>
-      </div>
-      <script
-        src='https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'
+    alert: | # https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js # 配置评论区，appId和appKey需要换成你自己的，见<https://valine.js.org/configuration.html>
+      <div class="v"> 
+        <i class="fas fa-spinner fa-pulse"></i> 
+      </div> 
+      <script 
+        src='https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js' 
         defer='defer'
         onload='
           new Valine({
@@ -491,6 +491,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             "avatarForce": false,
             "recordIP": true,
             "region": "us"
+            "lang": "en"
           })'
       ></script>
   post:
@@ -532,19 +533,11 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
         <script>
           var usage = "payment";
-          var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
-          var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
-          var alipay = "https://qr.alipay.com/fkx02750b5kbplxvudqrx16";
-          var paypal = "https://paypal.me/wukan0621";
-          var myname = "WuK";
-          var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
-          var multilingual = true;
-          var myname_hans = "吴坎";
-          var myname_hant = "吴坎";
-          var myname_eng = "WuK";
-          var title = "选择你的支付方式";
-          var subtitle = "跟随进一步的指示以向" + myname + "付款";
-          var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
+          var paypal = "https://paypal.me/haidang10897";
+          var myname = "Bắc Đẩu";
+          var profile = "https://i.imgur.com/iG111er.png";
+          var title = "Chọn phương thức thanh toán";
+          var subtitle = "Thực hiện theo hướng dẫn để thanh toán cho" + myname;
         </script>
       - |
         <meta

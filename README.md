@@ -1,4 +1,4 @@
-# よろしくお願いします
+# よろしく
 
 Chào mừng đến với blog cá nhân của Bắc Đẩu aka Đăng Đăng aka Shimakaze aka 魁の光
 
@@ -22,5 +22,5 @@ Chào mừng đến với blog cá nhân của Bắc Đẩu aka Đăng Đăng ak
 - Facebook: **tran.h.dang.54**
 - Twitter: **haidang10897**
 
-<!-- slide -->
+
 
