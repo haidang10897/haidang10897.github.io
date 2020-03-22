@@ -9,15 +9,16 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/haidang10897">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
-    <i class="fas fa-chart-bar"></i>
+  <a href="https://www.facebook.com/tran.h.dang.54">
+    <i class="fa fa-facebook-official"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
+  <a href="https://twitter.com/haidang10897">
+    <i class="fa fa-twitter-square"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fab fa-zhihu"></i>
+  <a href="https://steamcommunity.com/id/BoDut">
+    <i class="fa fa-steam-square"></i>
   </a>
+  <iframe width="100%" height="30" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/181934256&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
  # <iframe
  #   src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
  #  width=100%
@@ -60,7 +61,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+          href="https://i.imgur.com/iG111er.png"
         />
       - | # 来自lanyon的页面样式，不要改
         <link
@@ -518,9 +519,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       <br/>
       <i class="fas fa-coffee fa-fw"></i>
       <a href="/merger/">Donate tại đây nếu cảm thấy bài viết giúp ích cho bạn</a>
-      <br/>
-      <i class="fab fa-creative-commons-by fa-fw"></i>
-      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>
+     # <br/>
+     # <i class="fab fa-creative-commons-by fa-fw"></i>
+     # <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>
   tags:
     alert: <i class="fas fa-tag"></i> # 在标签页的每个标签前面显示一个图标
     count: true # 统计每个标签下文章的数量

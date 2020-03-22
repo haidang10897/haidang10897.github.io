@@ -17,6 +17,8 @@ Chào mừng đến với blog cá nhân của Bắc Đẩu aka Đăng Đăng ak
 
 <!-- slide vertical=true -->
 
+## Liên hệ
+
 - E-mail:
   - **[haidangtran97@gmail.com](mailto:haidangtran97@gmail.com)**
 - Facebook: **tran.h.dang.54**
