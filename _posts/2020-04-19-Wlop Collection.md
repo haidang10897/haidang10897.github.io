@@ -17,15 +17,15 @@ tags: Wlop
 |7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ|
 |8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|
 |9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|
-|10|WLOP battle|||
-|11|WLOP bride|||
-|12|WLOP Butterfly|||
-|13|WLOP Cassie-and-Tonk|||
-|14|WLOP Ceremonial|||
-|15|WLOP Chaos|||
-|16|WLOP Claw|||
-|17|WLOP Comb|||
-|18|WLOP Coronation|||
+|10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK||
+|11|WLOP bride|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-DKhBVU5C-1Lu6ixQZNP0||
+|12|WLOP Butterfly|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhNQjHKelZvyf0v7aHmJUOE||
+|13|WLOP Cassie-and-Tonk|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjFkrLkqAp-edP38Nu4ZkCP||
+|14|WLOP Ceremonial|https://www.youtube.com/playlist?list=PL5D4ygJQLkjihbF_7qg6JAoiqcIMbEHdL||
+|15|WLOP Chaos|https://www.youtube.com/playlist?list=PL5D4ygJQLkjitjOvxxn0QEAlSNnVFNTJD||
+|16|WLOP Claw|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh0rF2MDoFMoFU0rVBRmqo1||
+|17|WLOP Comb|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhiOahJtuZXQjWU9MvN9p87||
+|18|WLOP Coronation|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiLIYAFM-zQ2pGBn4mz8ehC||
 |19|WLOP Curse_dnf|||
 |20|WLOP Curtsey|||
 |21|WLOP D.VA|||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU5NDYxNzAsMTk1MTg2Nzk5MCwtMT
+eyJoaXN0b3J5IjpbLTE1NTU3NDg0OTQsMTk1MTg2Nzk5MCwtMT
 A2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1
 MzM2LC00NzE5Njk0OTVdfQ==
 -->
