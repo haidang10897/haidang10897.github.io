@@ -6,7 +6,7 @@ tags: Wlop
 
 <div align="center"> </div>
 
-|STT| Tên  | Link  | a|
+|STT| Tên  | Link  |Ảnh|
 |---|---|---|---|
 |1| Wlop 2B  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | |
 |2| Wlop A2  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q)  |
@@ -96,19 +96,19 @@ tags: Wlop
 |86 |Wlop Reaper | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjpg2y8WBxP_KT2zSkYgVue||
 |87 |Wlop Sarlia2 | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjAp61OINLzENePI79hl02r||
 |88 |Wlop Sin |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjALzGiF8P7CQX5DtmQD4UH ||
-|89 |Wlop Sylvanas || |
-|90 |Wlop Tifa | ||
-|91 |Wlop Violet | ||
-|92 |Wlop Violet 2 || |
-|93 |Wlop Zack | ||
-|94 |Wlop Ceremonial3 | ||
-|95 |Wlop Landing | ||
-|96 |Wlop Ashe | ||
-|97 |Wlop Sephiroth || |
-|98 |Wlop Beginner Fundamental | ||
+|89 |Wlop Sylvanas |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRoS7_J0z3wVtr1fGu2VYo| |
+|90 |Wlop Tifa |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj_PmSKGPe6So-qstu_KJ1_ ||
+|91 |Wlop Violet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjl9d7DgRI3GeBBlQMhpAjw||
+|92 |Wlop Violet 2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgIQ60DQPGO_gAH6myaBT5u| |
+|93 |Wlop Zack | https://www.youtube.com/playlist?list=PL5D4ygJQLkjipmFBnLc-2UdpLCbi_AZ1P||
+|94 |Wlop Ceremonial3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg6zz1seGM6dbdiGWfysoA- ||
+|95 |Wlop Landing | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgSpxGKfw5J7jt2-OMtBGo4||
+|96 |Wlop Ashe | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgMNG1sJ_aODm3P5XrDV2lv||
+|97 |Wlop Sephiroth |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhE-em9ewO0xm0-BQYugqj1| |
+|98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDA4MTM4OSwxOTUxODY3OTkwLC0xMD
+eyJoaXN0b3J5IjpbMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC0xMD
 Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
 MzYsLTQ3MTk2OTQ5NV19
 -->
