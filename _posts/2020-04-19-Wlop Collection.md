@@ -83,19 +83,19 @@ tags: Wlop
 |73 |Wlop Sea |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjvBwMIGoGzyj30hbY9Y1Tr ||
 |74 |Wlop Tattoo |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgI1nVpQiBr53vsHWnNwmRR| |
 |75 |Wlop Aeolian3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjDM35GZoWKITW7P3c4uUIZ| |
-|76 |Wlop Aldrich | ||
-|77 |Wlop Ceremonial2 || |
-|78 |Wlop Dream | ||
-|79 |Wlop Freak | ||
-|80 |Wlop HelloKitty || |
-|81 |Wlop Hunter | ||
-|82 |Wlop LonelyParade3D || |
-|83 |Wlop Luna| ||
-|84 |Wlop North | ||
-|85 |Wlop Puppet | ||
-|86 |Wlop Reaper | ||
-|87 |Wlop Sarlia2 | ||
-|88 |Wlop Sin | ||
+|76 |Wlop Aldrich |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiuXUDogSurRDNphuwzVkzY ||
+|77 |Wlop Ceremonial2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgk2Tq0kLfq_Cuwod898a7I| |
+|78 |Wlop Dream |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqJM3FpNgk9Se-UmQQ0A3z ||
+|79 |Wlop Freak | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgtMLvpSbhYxzSo7WBx6ahA||
+|80 |Wlop HelloKitty |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj4bE4xYaomKonC9XbjFqW3| |
+|81 |Wlop Hunter |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgRHo9pVM7gGQF8F516r7eD ||
+|82 |Wlop LonelyParade3D |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgmftsb8H9KtHEUTS28qV-A| |
+|83 |Wlop Luna| https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCyE54P-ekii_UKZAyJXdE||
+|84 |Wlop North |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjC_yi_HtVQMjsQcWrgsTpN ||
+|85 |Wlop Puppet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgVe3marLBU-JO-yiW0HrLY ||
+|86 |Wlop Reaper | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjpg2y8WBxP_KT2zSkYgVue||
+|87 |Wlop Sarlia2 | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjAp61OINLzENePI79hl02r||
+|88 |Wlop Sin |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjALzGiF8P7CQX5DtmQD4UH ||
 |89 |Wlop Sylvanas || |
 |90 |Wlop Tifa | ||
 |91 |Wlop Violet | ||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODYyNzU4NywxOTUxODY3OTkwLC0xMD
+eyJoaXN0b3J5IjpbMTgxMDA4MTM4OSwxOTUxODY3OTkwLC0xMD
 Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
 MzYsLTQ3MTk2OTQ5NV19
 -->
