@@ -32,19 +32,19 @@ tags: Wlop
 |22|WLOP Dads|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhffHG0W4WM7YudjtQD1vdl||
 |23|WLOP Dawn2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhgqXIYOSgu3AkOhCUS_0_m||
 |24|WLOP EVA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjObXgxWr9MQOpVjh98uSER||
-|25|WLOP Fate GO|||
-|26|WLOP Father|||
-|27|WLOP Feast|||
-|28|WLOP Feather 2|||
-|29|WLOP February 1|||
-|30|WLOP Gyarados|||
-|31|WLOP Jade|||
-|32|WLOP Jeer|||
-|33|WLOP Kui|||
-|34|WLOP Light|||
-|35|WLOP Moon and Night|||
-|36|WLOP Mother|||
-|37|WLOP Mumei wallpaper|||
+|25|WLOP Fate GO|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhtsRpAKvp0TdteEz4WEYEn||
+|26|WLOP Father|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgA5yIMfdcedsP0WZPP1Sjx||
+|27|WLOP Feast|https://www.youtube.com/playlist?list=PL5D4ygJQLkjij6DAJ-woeZS5peGJQQt-9||
+|28|WLOP Feather 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUUH-pin3pFXD_Xd7Ciyhc||
+|29|WLOP Sacrifice|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjdcITAT-Sn8ofx2r5_R3n3||
+|30|WLOP Gyarados|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjx_iwUiR_TlHA3__IF6ypk||
+|31|WLOP Jade|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjrkXhQ8gNmqMo2-UV8iYpO||
+|32|WLOP Jeer|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhx7UtYQiqEc0drTz7jSZPG||
+|33|WLOP Kui|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhmh7qy-C3P0c76bbxpopIH||
+|34|WLOP Light|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhdg1XZ32cTD53xHCZtiWMX||
+|35|WLOP Moon and Night|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjxUYPiwc1IGkXsJ55xzJ_F||
+|36|WLOP Mother|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgbR9IeOii9Y-dx8LzyeTKd||
+|37|WLOP Mumei wallpaper|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRRraTSit4XH6tDuswTXFt||
 |38|WLOP NierDLC|||
 |39|WLOP Pale|||
 |40|WLOP Princess|||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc2NDg0MzIsMTk1MTg2Nzk5MCwtMT
-A2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1
-MzM2LC00NzE5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbNzQ5NTM4NjM4LDE5NTE4Njc5OTAsLTEwNj
+YzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NTAyNTMz
+NiwtNDcxOTY5NDk1XX0=
 -->
