@@ -88,18 +88,24 @@ tags: Wlop
 |80 |Wlop HelloKitty | |
 |81 |Wlop Hunter | |
 |82 |Wlop LonelyParade3D | |
-|83 |Wlop L| |
-|84 | | |
-|85 | | |
-|86 | | |
-|87 | | |
-|88 | | |
-|89 | | |
-|90 | | |
-|91 | | |
-|92 | | |
+|83 |Wlop Luna| |
+|84 |Wlop North | |
+|85 |Wlop Puppet | |
+|86 |Wlop Reaper | |
+|87 |Wlop Sarlia2 | |
+|88 |Wlop Sin | |
+|89 |Wlop Sylvanas | |
+|90 |Wlop Tifa | |
+|91 |Wlop Violet | |
+|92 |Wlop Violet 2 | |
+|93 |Wlop Zack | |
+|94 |Wlop Ceremonial3 | |
+|95 |Wlop Landing | |
+|96 |Wlop Ashe | |
+|97 |Wlop Sephiroth | |
+|98 |Wlop Beginner Fundamental | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODQ0MjgzLDM0NTgzNzIzMSwyMDY1MD
-I1MzM2LC00NzE5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NT
+AyNTMzNiwtNDcxOTY5NDk1XX0=
 -->
