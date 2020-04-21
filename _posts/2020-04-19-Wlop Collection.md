@@ -22,23 +22,23 @@ tags: Wlop
 |14|WLOP Ceremonial||
 |15|WLOP Chaos||
 |16|WLOP Claw||
-|17|WLOP comb||
+|17|WLOP Comb||
 |18|WLOP Coronation||
-|19|||
-|20|||
-|21|||
-|22|||
-|23|||
-|24|||
-|25|||
-|26|||
-|27|||
-|28|||
-|29|||
-|30|||
-|31|||
-|32|||
-|33|||
+|19|WLOP Curse_dnf||
+|20|WLOP Curtsey||
+|21|WLOP D.VA||
+|22|WLOP Dads||
+|23|WLOP Dawn2||
+|24|WLOP EVA||
+|25|WLOP Fate GO||
+|26|WLOP Father||
+|27|WLOP Feast||
+|28|WLOP Feather 2||
+|29|WLOP February 1||
+|30|WLOP Gyarados||
+|31|WLOP Jade||
+|32|WLOP Jeer||
+|33|WLOP Kui||
 |34|||
 |35|||
 |36|||
@@ -65,5 +65,5 @@ tags: Wlop
 |57|||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDk2ODksLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
 -->
