@@ -50,21 +50,21 @@ tags: Wlop
 |42|WLOP Ruler||
 |43|WLOP Saber||
 |44|WLOP Silence||
-|45|||
-|46|||
-|47|||
-|48|||
-|49|||
-|50|||
-|51|||
-|52|||
-|53|||
-|54|||
+|45|WLOP Village||
+|46|WLOP Wake 1||
+|47|WLOP War||
+|48|WLOP Water||
+|49|WLOP WeWereAngels||
+|50|WLOP Motorcycle||
+|51|WLOP Window||
+|52|WLOP Lightning||
+|53|Wlop Nap||
+|54|Wlop Seria||
 |55|||
 |56|||
 |57|||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjQ5OTA3OSwyMDY1MDI1MzM2LC00Nz
-E5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMDY3MTE2OTAsMjA2NTAyNTMzNiwtND
+cxOTY5NDk1XX0=
 -->
