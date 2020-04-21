@@ -62,11 +62,11 @@ tags: Wlop
 |52|WLOP Lightning|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7vOnGo9sPdWD_vwLtchJ5||
 |53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm||
 |54|Wlop Seria|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhi3_Dn3pnHXNY7InOUcXbG||
-|55|Wlop Wake 2|||
-|56|Wlop Whale|||
-|57|Wlop Yuna|||
-|58|Wlop Bow | ||
-|59|Wlop Deathknight || |
+|55|Wlop Wake 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh8BjDAQE250jlioX1YMljZ||
+|56|Wlop Whale|https://www.youtube.com/playlist?list=PL5D4ygJQLkji_7ct5fro61rdT2XKzPtRJ||
+|57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY||
+|58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ ||
+|59|Wlop Deathknight |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgFT1rVTawYJJD1frqxOq9D| |
 |60 |Wlop Die | ||
 |61 |Wlop Draenei || |
 |62 |Wlop Duel(Aeolian vs. Lenia) | ||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjMxNjI2MiwxOTUxODY3OTkwLC0xMD
+eyJoaXN0b3J5IjpbMTg0MjkyOTY1MywxOTUxODY3OTkwLC0xMD
 Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
 MzYsLTQ3MTk2OTQ5NV19
 -->
