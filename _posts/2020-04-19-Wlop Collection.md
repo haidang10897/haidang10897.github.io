@@ -72,23 +72,23 @@ tags: Wlop
 |64 |Wlop Fate Anniversary | |
 |65 |Wlop Frankenstein | |
 |66 |Wlop Hometown_dnf | |
-|67 |W; | |
-|68 | | |
-|69 | | |
-|70 | | |
-|71 | | |
-|72 | | |
-|73 | | |
-|74 | | |
-|75 | | |
-|76 | | |
-|77 | | |
-|78 | | |
-|79 | | |
-|80 | | |
-|81 | | |
-|82 | | |
-|83 | | |
+|67 |Wlop Kings | |
+|68 |Wlop Mipha | |
+|69 |Wlop Nora | |
+|70 |Wlop Oath | |
+|71 |Wlop Princess Mononoke | |
+|72 |Wlop Reborn_dnf | |
+|73 |Wlop Sea | |
+|74 |Wlop Tattoo | |
+|75 |Wlop Aeolian3 | |
+|76 |Wlop Aldrich | |
+|77 |Wlop Ceremonial2 | |
+|78 |Wlop Dream | |
+|79 |Wlop Freak | |
+|80 |Wlop HelloKitty | |
+|81 |Wlop Hunter | |
+|82 |Wlop LonelyParade3D | |
+|83 |Wlop L| |
 |84 | | |
 |85 | | |
 |86 | | |
@@ -100,6 +100,6 @@ tags: Wlop
 |92 | | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4OTY2ODkwLDM0NTgzNzIzMSwyMDY1MD
+eyJoaXN0b3J5IjpbMTY1ODQ0MjgzLDM0NTgzNzIzMSwyMDY1MD
 I1MzM2LC00NzE5Njk0OTVdfQ==
 -->
