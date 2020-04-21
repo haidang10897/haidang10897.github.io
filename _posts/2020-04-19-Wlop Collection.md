@@ -16,23 +16,23 @@ tags: Wlop
 |6| Wlop Arena| https://www.youtube.com/playlist?list=PL5D4ygJQLkjhreEyle1dUhdS-OCYdA30a | 
 |7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ|
 |8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|
-|9|WLOP Ayanami Rei||
-|10|WLOP battle||
-|11|WLOP bride||
-|12|WLOP Butterfly||
-|13|WLOP Cassie-and-Tonk||
-|14|WLOP Ceremonial||
-|15|WLOP Chaos||
-|16|WLOP Claw||
-|17|WLOP Comb||
-|18|WLOP Coronation||
-|19|WLOP Curse_dnf||
-|20|WLOP Curtsey||
-|21|WLOP D.VA||
-|22|WLOP Dads||
-|23|WLOP Dawn2||
-|24|WLOP EVA||
-|25|WLOP Fate GO||
+|9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|
+|10|WLOP battle|||
+|11|WLOP bride|||
+|12|WLOP Butterfly|||
+|13|WLOP Cassie-and-Tonk|||
+|14|WLOP Ceremonial|||
+|15|WLOP Chaos|||
+|16|WLOP Claw|||
+|17|WLOP Comb|||
+|18|WLOP Coronation|||
+|19|WLOP Curse_dnf|||
+|20|WLOP Curtsey|||
+|21|WLOP D.VA|||
+|22|WLOP Dads|||
+|23|WLOP Dawn2|||
+|24|WLOP EVA|||
+|25|WLOP Fate GO|||
 |26|WLOP Father||
 |27|WLOP Feast||
 |28|WLOP Feather 2||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOT
-c1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0
-OTVdfQ==
+eyJoaXN0b3J5IjpbNDI4MTk5ODAsMTk1MTg2Nzk5MCwtMTA2Nj
+MxNDk5NywxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2
+LC00NzE5Njk0OTVdfQ==
 -->
