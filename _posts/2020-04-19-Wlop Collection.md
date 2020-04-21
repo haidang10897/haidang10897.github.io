@@ -67,22 +67,22 @@ tags: Wlop
 |57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY||
 |58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ ||
 |59|Wlop Deathknight |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgFT1rVTawYJJD1frqxOq9D| |
-|60 |Wlop Die | ||
-|61 |Wlop Draenei || |
-|62 |Wlop Duel(Aeolian vs. Lenia) | ||
-|63 |Wlop Fall_dnf | ||
-|64 |Wlop Fate Anniversary | ||
-|65 |Wlop Frankenstein | ||
-|66 |Wlop Hometown_dnf | ||
-|67 |Wlop Kings | ||
-|68 |Wlop Mipha | ||
-|69 |Wlop Nora | ||
-|70 |Wlop Oath | ||
-|71 |Wlop Princess Mononoke | ||
-|72 |Wlop Reborn_dnf | ||
-|73 |Wlop Sea | ||
-|74 |Wlop Tattoo || |
-|75 |Wlop Aeolian3 || |
+|60 |Wlop Die |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2uGyzXXq93AJ6eXwgTHNU ||
+|61 |Wlop Draenei |https://www.youtube.com/playlist?list=PL5D4ygJQLkjih78dSuo2-ZA4XPDfYD8Bq| |
+|62 |Wlop Duel(Aeolian vs. Lenia) |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg83u190ozo8kA-1Qk2qyDo ||
+|63 |Wlop Fall_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVo1U_tGw_RiCWojawRMyA ||
+|64 |Wlop Fate Anniversary |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhd4FL_sc_d9quOmBS_eEe ||
+|65 |Wlop Frankenstein |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2PFvwne7PibiLGDz6rC70 ||
+|66 |Wlop Hometown_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjh-kdHxXYozJot33ECuguF- ||
+|67 |Wlop Kings |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgc2wU_yCZ4kCdfvN0A5i-7 ||
+|68 |Wlop Mipha |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-6qnvXuvvQYLpBxAeRAOd ||
+|69 |Wlop Nora |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRFDWBYuCYUjJ_O0FkifSH ||
+|70 |Wlop Oath |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiJc6uTFYD8ukRSECXFY8o1 ||
+|71 |Wlop Princess Mononoke |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUurXxbZFwvXdw3KT2L2V_ ||
+|72 |Wlop Reborn_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgLzGvrXaVulvU2sXAD6jh1||
+|73 |Wlop Sea |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjvBwMIGoGzyj30hbY9Y1Tr ||
+|74 |Wlop Tattoo |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgI1nVpQiBr53vsHWnNwmRR| |
+|75 |Wlop Aeolian3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjDM35GZoWKITW7P3c4uUIZ| |
 |76 |Wlop Aldrich | ||
 |77 |Wlop Ceremonial2 || |
 |78 |Wlop Dream | ||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjkyOTY1MywxOTUxODY3OTkwLC0xMD
+eyJoaXN0b3J5IjpbMTIyODYyNzU4NywxOTUxODY3OTkwLC0xMD
 Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
 MzYsLTQ3MTk2OTQ5NV19
 -->
