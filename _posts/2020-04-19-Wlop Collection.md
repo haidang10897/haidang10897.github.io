@@ -3,12 +3,11 @@ title: Wlop Collection
 tags: Wlop
 ---
 
-
 <div align="center"> </div>
 
-|STT| Tên  | Link  |Ảnh|
+|STT| Tên | Link  |Ảnh|
 |---|---|---|---|
-|1| Wlop 2B  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | |
+|1| Wlop 2B | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | |
 |2| Wlop A2  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q)  |
 |3| Wlop Aeolian Shooting  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339)  |
 |4| Wlop Aeolian Lean | [https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI](https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI)|
@@ -108,7 +107,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC0xMD
-Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
-MzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTExNzAxMTQzNzgsMTQ1MjQwNTQwMiwxOT
+UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
+MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
 -->
