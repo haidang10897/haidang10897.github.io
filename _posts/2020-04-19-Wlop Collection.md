@@ -4,9 +4,9 @@ tags: Wlop
 ---
 
 
-|STT| Tên  | Link  |
-|---|---|---|
-|1| Wlop 2B  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  |
+|STT| Tên  | Link  | a|
+|---|---|---|---|
+|1| Wlop 2B  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | ![鬼刀WLOP个人插画绘本画册作品集漫画- 素材- 画学反应](https://www.hxfycg.com/files/default/2019/08-13/172922246278734317.jpg)|
 |2| Wlop A2  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q)  |
 |3| Wlop Aeolian Shooting  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339)  |
 |4| Wlop Aeolian Lean | [https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI](https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI)|
@@ -60,11 +60,11 @@ tags: Wlop
 |52|WLOP Lightning||
 |53|Wlop Nap||
 |54|Wlop Seria||
-|55|||
-|56|||
-|57|||
+|55|Wlop Wake 2||
+|56|Wlop Whale||
+|57|Wlop yuna||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY3MTE2OTAsMjA2NTAyNTMzNiwtND
-cxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbMzg0NzAyNzA3LDIwNjUwMjUzMzYsLTQ3MT
+k2OTQ5NV19
 -->
