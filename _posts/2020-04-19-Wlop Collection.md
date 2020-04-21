@@ -4,6 +4,8 @@ tags: Wlop
 ---
 
 
+<div align="center"> </div>
+
 |STT| Tên  | Link  | a|
 |---|---|---|---|
 |1| Wlop 2B  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | |
@@ -106,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMjEzMDY2LC0xMDY2MzE0OTk3LDE5Nz
-U1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5
-NV19
+eyJoaXN0b3J5IjpbMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOT
+c1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0
+OTVdfQ==
 -->
