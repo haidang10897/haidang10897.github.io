@@ -13,17 +13,17 @@ tags: Wlop
 |5|Wlop Allied |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqporG7fy-GnkQ06QTHNk2 |
 |6| Wlop Arena| https://www.youtube.com/playlist?list=PL5D4ygJQLkjhreEyle1dUhdS-OCYdA30a | 
 |7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ|
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
-|16|||
-|17|||
-|18|||
+|8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|
+|9|WLOP Ayanami Rei||
+|10|WLOP battle||
+|11|WLOP bride||
+|12|WLOP Butterfly||
+|13|WLOP Cassie-and-Tonk||
+|14|WLOP Ceremonial||
+|15|WLOP Chaos||
+|16|WLOP Claw||
+|17|WLOP comb||
+|18|WLOP Coronation||
 |19|||
 |20|||
 |21|||
@@ -65,5 +65,5 @@ tags: Wlop
 |57|||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQyNTYzNDksLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTYxMDk2ODksLTQ3MTk2OTQ5NV19
 -->
