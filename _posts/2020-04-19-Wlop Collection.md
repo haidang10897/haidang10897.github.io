@@ -63,7 +63,7 @@ tags: Wlop
 |55|Wlop Wake 2||
 |56|Wlop Whale||
 |57|Wlop Yuna||
-|58 Wlop Bow| | |
+|58|Wlop Bow | |
 |59|Wlop Deathknight | |
 |60 |Wlop Die | |
 |61 |Wlop Draenei | |
@@ -106,6 +106,6 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NT
-AyNTMzNiwtNDcxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzND
+U4MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
 -->
