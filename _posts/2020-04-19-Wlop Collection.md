@@ -50,18 +50,18 @@ tags: Wlop
 |40|WLOP Princess|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgaCkP23SIFoDL51-F5L645||
 |41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o||
 |42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np||
-|43|WLOP Saber|||
-|44|WLOP Silence|||
-|45|WLOP Village|||
-|46|WLOP Wake 1|||
-|47|WLOP War|||
-|48|WLOP Water|||
-|49|WLOP WeWereAngels|||
-|50|WLOP Motorcycle|||
-|51|WLOP Window|||
-|52|WLOP Lightning|||
-|53|Wlop Nap|||
-|54|Wlop Seria|||
+|43|WLOP Saber|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiWHnLcyMAYGj0ZSPwh7pbU||
+|44|WLOP Silence|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgqhLf9WELh7XC3AlD-qNrr||
+|45|WLOP Village|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhFJTdRT4tntKAC-CI910Lt||
+|46|WLOP Wake 1|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgElKSDN4GZ-AMpdDABQJEE||
+|47|WLOP War|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiIxig8s5jjbsH3KeP8t3fc||
+|48|WLOP Water|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjZU3ypoxXzSadhRQJ0CAto||
+|49|WLOP WeWereAngels|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiGOLCEVwtPG7XvOxFj9aHO||
+|50|WLOP Motorcycle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgHqLKplUyeIA9JyLi2S2iH||
+|51|WLOP Window|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCv0s8Y9-fi3xLvVYNa0YD||
+|52|WLOP Lightning|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7vOnGo9sPdWD_vwLtchJ5||
+|53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm||
+|54|Wlop Seria|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhi3_Dn3pnHXNY7InOUcXbG||
 |55|Wlop Wake 2|||
 |56|Wlop Whale|||
 |57|Wlop Yuna|||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODUwODI0MiwxOTUxODY3OTkwLC0xMD
+eyJoaXN0b3J5IjpbMTEwNjMxNjI2MiwxOTUxODY3OTkwLC0xMD
 Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
 MzYsLTQ3MTk2OTQ5NV19
 -->
