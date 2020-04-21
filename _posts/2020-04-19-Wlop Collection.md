@@ -63,16 +63,16 @@ tags: Wlop
 |55|Wlop Wake 2||
 |56|Wlop Whale||
 |57|Wlop Yuna||
-|58 | | |
-|59| | |
-|60 | | |
-|61 | | |
-|62 | | |
-|63 | | |
-|64 | | |
-|65 | | |
-|66 | | |
-|67 | | |
+|58 Wlop Bow| | |
+|59|Wlop Deathknight | |
+|60 |Wlop Die | |
+|61 |Wlop Draenei | |
+|62 |Wlop Duel(Aeolian vs. Lenia) | |
+|63 |Wlop Fall_dnf | |
+|64 |Wlop Fate Anniversary | |
+|65 |Wlop Frankenstein | |
+|66 |Wlop Hometown_dnf | |
+|67 |W; | |
 |68 | | |
 |69 | | |
 |70 | | |
@@ -100,6 +100,6 @@ tags: Wlop
 |92 | | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MT
-k2OTQ5NV19
+eyJoaXN0b3J5IjpbNzk4OTY2ODkwLDM0NTgzNzIzMSwyMDY1MD
+I1MzM2LC00NzE5Njk0OTVdfQ==
 -->
