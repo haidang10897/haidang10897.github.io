@@ -45,11 +45,11 @@ tags: Wlop
 |35|WLOP Moon and Night|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjxUYPiwc1IGkXsJ55xzJ_F||
 |36|WLOP Mother|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgbR9IeOii9Y-dx8LzyeTKd||
 |37|WLOP Mumei wallpaper|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRRraTSit4XH6tDuswTXFt||
-|38|WLOP NierDLC|||
-|39|WLOP Pale|||
-|40|WLOP Princess|||
-|41|WLOP Red|||
-|42|WLOP Ruler|||
+|38|WLOP NierDLC|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjmUKFr7fkvJZcOHKc2kwj3||
+|39|WLOP Pale|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjBPHmoyTBFcvEsP_Uk5UsU||
+|40|WLOP Princess|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgaCkP23SIFoDL51-F5L645||
+|41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o||
+|42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np||
 |43|WLOP Saber|||
 |44|WLOP Silence|||
 |45|WLOP Village|||
@@ -108,7 +108,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental | ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NTM4NjM4LDE5NTE4Njc5OTAsLTEwNj
-YzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NTAyNTMz
-NiwtNDcxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbLTY5ODUwODI0MiwxOTUxODY3OTkwLC0xMD
+Y2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUz
+MzYsLTQ3MTk2OTQ5NV19
 -->
