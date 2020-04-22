@@ -16,7 +16,7 @@ tags: Wlop
 |7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ| ![](https://i.imgur.com/znMen5m.jpg)|
 |8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|![](https://i.imgur.com/6OtFvtK.jpg)|
 |9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|![](https://i.imgur.com/itIM29Q.jpg)|
-|10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK|![](https://i.imgur.com/itIM29Q.jpg)|
+|10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK|![](https://i.imgur.com/512E3hD.jpg)|
 |11|WLOP bride|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-DKhBVU5C-1Lu6ixQZNP0||
 |12|WLOP Butterfly|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhNQjHKelZvyf0v7aHmJUOE||
 |13|WLOP Cassie-and-Tonk|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjFkrLkqAp-edP38Nu4ZkCP||
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0Mzk0MTgxLC00NTMzNTM1ODcsOTMwNT
-c4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMTk1MTg2Nzk5
-MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMD
-Y1MDI1MzM2LC00NzE5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjY3ODcyOTYsLTQ1MzM1MzU4Nyw5Mz
+A1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3
+OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLD
+IwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
 -->
