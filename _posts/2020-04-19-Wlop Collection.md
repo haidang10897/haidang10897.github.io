@@ -17,9 +17,9 @@ tags: Wlop
 |8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|![](https://i.imgur.com/6OtFvtK.jpg)|
 |9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|![](https://i.imgur.com/itIM29Q.jpg)|
 |10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK|![](https://i.imgur.com/512E3hD.jpg)|
-|11|WLOP bride|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-DKhBVU5C-1Lu6ixQZNP0||
-|12|WLOP Butterfly|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhNQjHKelZvyf0v7aHmJUOE||
-|13|WLOP Cassie-and-Tonk|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjFkrLkqAp-edP38Nu4ZkCP||
+|11|WLOP bride|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-DKhBVU5C-1Lu6ixQZNP0|![](https://i.imgur.com/tS8n1ol.jpg)|
+|12|WLOP Butterfly|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhNQjHKelZvyf0v7aHmJUOE|![](https://i.imgur.com/sKA99Sc.jpg)|
+|13|WLOP Cassie-and-Tonk|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjFkrLkqAp-edP38Nu4ZkCP|![](https://i.imgur.com/sKA99Sc.jpg)|
 |14|WLOP Ceremonial|https://www.youtube.com/playlist?list=PL5D4ygJQLkjihbF_7qg6JAoiqcIMbEHdL||
 |15|WLOP Chaos|https://www.youtube.com/playlist?list=PL5D4ygJQLkjitjOvxxn0QEAlSNnVFNTJD||
 |16|WLOP Claw|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh0rF2MDoFMoFU0rVBRmqo1||
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY3ODcyOTYsLTQ1MzM1MzU4Nyw5Mz
-A1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3
-OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLD
-IwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbOTAyODY0NDMwLC0xOTI2Nzg3Mjk2LC00NT
+MzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0
+MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLD
+M0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
