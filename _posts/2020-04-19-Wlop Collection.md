@@ -28,9 +28,9 @@ tags: Wlop
 |19|WLOP Curse_dnf|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhbPEj_cELIkivyBaU9U4PX|![](https://i.imgur.com/TDQU8rf.jpg)|
 |20|WLOP Curtsey|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgGT--6il7yONuQ6eR0oDDL|![](https://i.imgur.com/tMDh2LA.jpg)|
 |21|WLOP D.VA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhBY24rQrYZ1Q6QRkxdXGpF|![](https://i.imgur.com/cT2fqYo.jpg)|
-|22|WLOP Dads|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhffHG0W4WM7YudjtQD1vdl||
-|23|WLOP Dawn2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhgqXIYOSgu3AkOhCUS_0_m||
-|24|WLOP EVA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjObXgxWr9MQOpVjh98uSER||
+|22|WLOP Dads|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhffHG0W4WM7YudjtQD1vdl|![](https://i.imgur.com/iXlCI39.jpg)|
+|23|WLOP Dawn2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhgqXIYOSgu3AkOhCUS_0_m|![](https://i.imgur.com/viZ3B09.jpg)|
+|24|WLOP EVA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjObXgxWr9MQOpVjh98uSER|![](https://i.imgur.com/viZ3B09.jpg)|
 |25|WLOP Fate GO|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhtsRpAKvp0TdteEz4WEYEn||
 |26|WLOP Father|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgA5yIMfdcedsP0WZPP1Sjx||
 |27|WLOP Feast|https://www.youtube.com/playlist?list=PL5D4ygJQLkjij6DAJ-woeZS5peGJQQt-9||
@@ -107,7 +107,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MDQyMTUyLC0xOTI2Nzg3Mjk2LC00NT
+eyJoaXN0b3J5IjpbNzM5ODMxMzM4LC0xOTI2Nzg3Mjk2LC00NT
 MzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0
 MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLD
 M0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
