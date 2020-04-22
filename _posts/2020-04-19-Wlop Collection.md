@@ -19,12 +19,12 @@ tags: Wlop
 |10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK|![](https://i.imgur.com/512E3hD.jpg)|
 |11|WLOP bride|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-DKhBVU5C-1Lu6ixQZNP0|![](https://i.imgur.com/tS8n1ol.jpg)|
 |12|WLOP Butterfly|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhNQjHKelZvyf0v7aHmJUOE|![](https://i.imgur.com/sKA99Sc.jpg)|
-|13|WLOP Cassie-and-Tonk|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjFkrLkqAp-edP38Nu4ZkCP|![](https://i.imgur.com/sKA99Sc.jpg)|
-|14|WLOP Ceremonial|https://www.youtube.com/playlist?list=PL5D4ygJQLkjihbF_7qg6JAoiqcIMbEHdL||
-|15|WLOP Chaos|https://www.youtube.com/playlist?list=PL5D4ygJQLkjitjOvxxn0QEAlSNnVFNTJD||
-|16|WLOP Claw|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh0rF2MDoFMoFU0rVBRmqo1||
-|17|WLOP Comb|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhiOahJtuZXQjWU9MvN9p87||
-|18|WLOP Coronation|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiLIYAFM-zQ2pGBn4mz8ehC||
+|13|WLOP Cassie-and-Tonk|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjFkrLkqAp-edP38Nu4ZkCP|![](https://i.imgur.com/qG1Vkuk.jpg)|
+|14|WLOP Ceremonial|https://www.youtube.com/playlist?list=PL5D4ygJQLkjihbF_7qg6JAoiqcIMbEHdL|![](https://i.imgur.com/ytNgjIQ.jpg)|
+|15|WLOP Chaos|https://www.youtube.com/playlist?list=PL5D4ygJQLkjitjOvxxn0QEAlSNnVFNTJD|![](https://i.imgur.com/32gqWSN.jpg)|
+|16|WLOP Claw|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh0rF2MDoFMoFU0rVBRmqo1|![](https://i.imgur.com/UTDBnMn.jpg)|
+|17|WLOP Comb|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhiOahJtuZXQjWU9MvN9p87|![](https://i.imgur.com/kjevxsG.jpg)|
+|18|WLOP Coronation|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiLIYAFM-zQ2pGBn4mz8ehC|![](https://i.imgur.com/kjevxsG.jpg)|
 |19|WLOP Curse_dnf|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhbPEj_cELIkivyBaU9U4PX||
 |20|WLOP Curtsey|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgGT--6il7yONuQ6eR0oDDL||
 |21|WLOP D.VA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhBY24rQrYZ1Q6QRkxdXGpF||
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyODY0NDMwLC0xOTI2Nzg3Mjk2LC00NT
-MzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0
-MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLD
-M0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMzQ0ODk5NDUsLTE5MjY3ODcyOTYsLT
+Q1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQw
+NTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNz
+EsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
 -->
