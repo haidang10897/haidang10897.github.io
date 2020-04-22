@@ -15,7 +15,7 @@ tags: Wlop
 |6| Wlop Arena| https://www.youtube.com/playlist?list=PL5D4ygJQLkjhreEyle1dUhdS-OCYdA30a | ![](https://i.imgur.com/T2Ir23w.jpg)|
 |7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ| ![](https://i.imgur.com/znMen5m.jpg)|
 |8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|![](https://i.imgur.com/6OtFvtK.jpg)|
-|9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|![](https://i.imgur.com/itIM29Q.jpg)|
+|9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|![](https://i.imgur.com/Tzl6M1l.jpg)|
 |10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK|![](https://i.imgur.com/512E3hD.jpg)|
 |11|WLOP bride|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-DKhBVU5C-1Lu6ixQZNP0|![](https://i.imgur.com/tS8n1ol.jpg)|
 |12|WLOP Butterfly|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhNQjHKelZvyf0v7aHmJUOE|![](https://i.imgur.com/sKA99Sc.jpg)|
@@ -30,8 +30,8 @@ tags: Wlop
 |21|WLOP D.VA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhBY24rQrYZ1Q6QRkxdXGpF|![](https://i.imgur.com/cT2fqYo.jpg)|
 |22|WLOP Dads|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhffHG0W4WM7YudjtQD1vdl|![](https://i.imgur.com/iXlCI39.jpg)|
 |23|WLOP Dawn2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhgqXIYOSgu3AkOhCUS_0_m|![](https://i.imgur.com/viZ3B09.jpg)|
-|24|WLOP EVA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjObXgxWr9MQOpVjh98uSER|![](https://i.imgur.com/viZ3B09.jpg)|
-|25|WLOP Fate GO|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhtsRpAKvp0TdteEz4WEYEn||
+|24|WLOP EVA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjObXgxWr9MQOpVjh98uSER|![](https://i.imgur.com/itIM29Q.jpg)|
+|25|WLOP Fate GO|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhtsRpAKvp0TdteEz4WEYEn|![](https://i.imgur.com/qG2PCoF.jpg)|
 |26|WLOP Father|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgA5yIMfdcedsP0WZPP1Sjx||
 |27|WLOP Feast|https://www.youtube.com/playlist?list=PL5D4ygJQLkjij6DAJ-woeZS5peGJQQt-9||
 |28|WLOP Feather 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUUH-pin3pFXD_Xd7Ciyhc||
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5ODMxMzM4LC0xOTI2Nzg3Mjk2LC00NT
-MzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0
-MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLD
-M0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtND
+UzMzUzNTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1
+NDAyLDE5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MS
+wzNDU4MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
 -->
