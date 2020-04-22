@@ -8,7 +8,7 @@ tags: Wlop
 |STT| Tên | Link  |Ảnh|
 |:-:|:-:|:-:|:-:|
 |1| Wlop 2B | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | ![](/assets/image/2020-04-19-Wlop_Collection_2B.JPG) |
-|2| Wlop A2  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q)  |
+|2| Wlop A2  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q)  | ![](/assets/image/2020-04-19-Wlop_Collection_2B.JPG) |
 |3| Wlop Aeolian Shooting  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339)  |
 |4| Wlop Aeolian Lean | [https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI](https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI)|
 |5|Wlop Allied |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqporG7fy-GnkQ06QTHNk2 |
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2OD
-YzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0
-OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLT
-Q3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTEyODYzMjU4NTgsLTQ1MzM1MzU4Nyw5Mz
+A1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3
+OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLD
+IwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
 -->
