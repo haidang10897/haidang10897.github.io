@@ -9,11 +9,11 @@ tags: Wlop
 |:-:|:-:|:-:|:-:|
 |1| Wlop 2B | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa](https://www.youtube.com/playlist?list=PL5D4ygJQLkjj6CgiGHEI6DphjSJn9NHQa)  | ![](/assets/image/2020-04-19-Wlop_Collection_2B.JPG) |
 |2| Wlop A2  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjtawB_3zc-5j5tOWIj826q)  | ![](https://i.imgur.com/Zsu4zfy.jpg) |
-|3| Wlop Aeolian Shooting  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339)  | ![](https://i.imgur.com/Zsu4zfy.jpg)|
-|4| Wlop Aeolian Lean | [https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI](https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI)|
-|5|Wlop Allied |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqporG7fy-GnkQ06QTHNk2 |
-|6| Wlop Arena| https://www.youtube.com/playlist?list=PL5D4ygJQLkjhreEyle1dUhdS-OCYdA30a | 
-|7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ|
+|3| Wlop Aeolian Shooting  | [https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339](https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVBY7w5sTWjWH-GSpxo339)  | ![](https://i.imgur.com/tRro37i.jpg)|
+|4| Wlop Aeolian Lean | [https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI](https://www.youtube.com/playlist?list=PL5D4ygJQLkji1-ZC009zNp6i3vf9kYSuI)| ![](https://i.imgur.com/0nA4mZb.jpg)|
+|5|Wlop Allied |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqporG7fy-GnkQ06QTHNk2 | ![](https://i.imgur.com/5gXKvGo.jpg)|
+|6| Wlop Arena| https://www.youtube.com/playlist?list=PL5D4ygJQLkjhreEyle1dUhdS-OCYdA30a | ![](https://i.imgur.com/T2Ir23w.jpg)|
+|7|WLOP Arrival | https://www.youtube.com/playlist?list=PL5D4ygJQLkjhwJ41stqISobHQNzH9a6hZ| ![](https://i.imgur.com/T2Ir23w.jpg)|
 |8|Wlop Ash|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjWh1d_JJoS_ONcVHUpCGam|
 |9|WLOP Ayanami Rei|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhi3Dc0f1v1yaSFZsJW4Ac|
 |10|WLOP battle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh3M9gqNM7xNpCmjaWXHsLK||
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODczODE3MjUsLTQ1MzM1MzU4Nyw5Mz
-A1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3
-OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLD
-IwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbNzM4MTEwNjI5LC00NTMzNTM1ODcsOTMwNT
+c4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMTk1MTg2Nzk5
+MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMD
+Y1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
