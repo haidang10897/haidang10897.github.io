@@ -24,10 +24,10 @@ tags: Wlop
 |15|WLOP Chaos|https://www.youtube.com/playlist?list=PL5D4ygJQLkjitjOvxxn0QEAlSNnVFNTJD|![](https://i.imgur.com/32gqWSN.jpg)|
 |16|WLOP Claw|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh0rF2MDoFMoFU0rVBRmqo1|![](https://i.imgur.com/UTDBnMn.jpg)|
 |17|WLOP Comb|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhiOahJtuZXQjWU9MvN9p87|![](https://i.imgur.com/kjevxsG.jpg)|
-|18|WLOP Coronation|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiLIYAFM-zQ2pGBn4mz8ehC|![](https://i.imgur.com/kjevxsG.jpg)|
-|19|WLOP Curse_dnf|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhbPEj_cELIkivyBaU9U4PX||
-|20|WLOP Curtsey|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgGT--6il7yONuQ6eR0oDDL||
-|21|WLOP D.VA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhBY24rQrYZ1Q6QRkxdXGpF||
+|18|WLOP Coronation|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiLIYAFM-zQ2pGBn4mz8ehC|![](https://i.imgur.com/s8kspD3.jpg)|
+|19|WLOP Curse_dnf|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhbPEj_cELIkivyBaU9U4PX|![](https://i.imgur.com/TDQU8rf.jpg)|
+|20|WLOP Curtsey|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgGT--6il7yONuQ6eR0oDDL|![](https://i.imgur.com/tMDh2LA.jpg)|
+|21|WLOP D.VA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhBY24rQrYZ1Q6QRkxdXGpF|![](https://i.imgur.com/cT2fqYo.jpg)|
 |22|WLOP Dads|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhffHG0W4WM7YudjtQD1vdl||
 |23|WLOP Dawn2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhgqXIYOSgu3AkOhCUS_0_m||
 |24|WLOP EVA|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjObXgxWr9MQOpVjh98uSER||
@@ -107,8 +107,8 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ0ODk5NDUsLTE5MjY3ODcyOTYsLT
-Q1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQw
-NTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNz
-EsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbNDc5MDQyMTUyLC0xOTI2Nzg3Mjk2LC00NT
+MzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0
+MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLD
+M0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
