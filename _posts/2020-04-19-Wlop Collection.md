@@ -103,14 +103,14 @@ tags: Wlop
 |94 |Wlop Ceremonial3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg6zz1seGM6dbdiGWfysoA- |![](https://i.imgur.com/3mRQBw2.jpg)|
 |95 |Wlop Landing | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgSpxGKfw5J7jt2-OMtBGo4|![](https://i.imgur.com/t2o7NRn.jpg)|
 |96 |Wlop Ashe | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgMNG1sJ_aODm3P5XrDV2lv|![](https://i.imgur.com/nvAzCbK.jpg)|
-|97 |Wlop Sephiroth |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhE-em9ewO0xm0-BQYugqj1|![](https://i.imgur.com/nvAzCbK.jpg) |
+|97 |Wlop Sephiroth |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhE-em9ewO0xm0-BQYugqj1|![](https://i.imgur.com/P6IBcGs.jpg) |
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzODgzNzg4LC0xNjk5MDM5NDU4LDI5OT
-k0OTI1NSwtNjU3MzY1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcy
-OTYsLTQ1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMT
-Q1MjQwNTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1
-MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV
-19
+eyJoaXN0b3J5IjpbMjA4ODUyOTY3MSwtMTY5OTAzOTQ1OCwyOT
+k5NDkyNTUsLTY1NzM2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3
+Mjk2LC00NTMzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLD
+E0NTI0MDU0MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1
+NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OT
+VdfQ==
 -->
