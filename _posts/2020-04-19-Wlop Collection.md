@@ -61,7 +61,7 @@ tags: Wlop
 |52|WLOP Lightning|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7vOnGo9sPdWD_vwLtchJ5|![](https://i.imgur.com/cgZNEZE.jpg)|
 |53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm|![](https://i.imgur.com/UaFuEJF.jpg)|
 |54|Wlop Seria|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhi3_Dn3pnHXNY7InOUcXbG|![](https://i.imgur.com/HsGLnd8.jpg)|
-|55|Wlop Wake 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh8BjDAQE250jlioX1YMljZ||
+|55|Wlop Wake 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh8BjDAQE250jlioX1YMljZ|![](https://i.imgur.com/UrZvMG9.jpg)|
 |56|Wlop Whale|https://www.youtube.com/playlist?list=PL5D4ygJQLkji_7ct5fro61rdT2XKzPtRJ||
 |57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY||
 |58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ ||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMwOTIwNiwyOTk5NDkyNTUsLTY1Nz
-M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
-ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
-k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
-NzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbMjMwOTU4NTc1LDI5OTk0OTI1NSwtNjU3Mz
+Y1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4
+Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOT
+UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
+MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
 -->
