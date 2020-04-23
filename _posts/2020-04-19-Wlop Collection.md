@@ -34,7 +34,7 @@ tags: Wlop
 |25|WLOP Fate GO|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhtsRpAKvp0TdteEz4WEYEn|![](https://i.imgur.com/qG2PCoF.jpg)|
 |26|WLOP Father|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgA5yIMfdcedsP0WZPP1Sjx|![](https://i.imgur.com/qRWORpX.jpg)|
 |27|WLOP Feast|https://www.youtube.com/playlist?list=PL5D4ygJQLkjij6DAJ-woeZS5peGJQQt-9|![](https://i.imgur.com/F63uh6o.jpg)|
-|28|WLOP Feather 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUUH-pin3pFXD_Xd7Ciyhc||
+|28|WLOP Feather 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUUH-pin3pFXD_Xd7Ciyhc|![](https://i.imgur.com/ccA8XCd.jpg)|
 |29|WLOP Sacrifice|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjdcITAT-Sn8ofx2r5_R3n3||
 |30|WLOP Gyarados|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjx_iwUiR_TlHA3__IF6ypk||
 |31|WLOP Jade|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjrkXhQ8gNmqMo2-UV8iYpO||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUwMzc5ODYsMjA0NDMyMzc1NiwtMT
-kyNjc4NzI5NiwtNDUzMzUzNTg3LDkzMDU3ODcwMSwtMTY4NjMy
-NTczMCwxNDUyNDA1NDAyLDE5NTE4Njc5OTAsLTEwNjYzMTQ5OT
-csMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NTAyNTMzNiwtNDcx
-OTY5NDk1XX0=
+eyJoaXN0b3J5IjpbMTMwNzQzMzg3NywyMDQ0MzIzNzU2LC0xOT
+I2Nzg3Mjk2LC00NTMzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1
+NzMwLDE0NTI0MDU0MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5Ny
+wxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5
+Njk0OTVdfQ==
 -->
