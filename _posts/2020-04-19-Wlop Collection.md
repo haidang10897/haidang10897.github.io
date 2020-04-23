@@ -45,8 +45,8 @@ tags: Wlop
 |36|WLOP Mother|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgbR9IeOii9Y-dx8LzyeTKd|![](https://i.imgur.com/AlcV4Fq.jpg)|
 |37|WLOP Mumei wallpaper|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRRraTSit4XH6tDuswTXFt|![](https://i.imgur.com/c2vLpzK.jpg)|
 |38|WLOP NierDLC|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjmUKFr7fkvJZcOHKc2kwj3|![](https://i.imgur.com/wUuFugC.jpg)|
-|39|WLOP Pale|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjBPHmoyTBFcvEsP_Uk5UsU||
-|40|WLOP Princess|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgaCkP23SIFoDL51-F5L645||
+|39|WLOP Pale|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjBPHmoyTBFcvEsP_Uk5UsU|![](https://i.imgur.com/UWmJO5W.jpg)|
+|40|WLOP Princess|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgaCkP23SIFoDL51-F5L645|![](https://i.imgur.com/UWmJO5W.jpg)|
 |41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o||
 |42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np||
 |43|WLOP Saber|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiWHnLcyMAYGj0ZSPwh7pbU||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyODQ4NTE0LDIwNDQzMjM3NTYsLTE5Mj
-Y3ODcyOTYsLTQ1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3
-MzAsMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0OTk3LD
-E5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2
-OTQ5NV19
+eyJoaXN0b3J5IjpbLTEzOTA4MjkwNjgsMjA0NDMyMzc1NiwtMT
+kyNjc4NzI5NiwtNDUzMzUzNTg3LDkzMDU3ODcwMSwtMTY4NjMy
+NTczMCwxNDUyNDA1NDAyLDE5NTE4Njc5OTAsLTEwNjYzMTQ5OT
+csMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NTAyNTMzNiwtNDcx
+OTY5NDk1XX0=
 -->
