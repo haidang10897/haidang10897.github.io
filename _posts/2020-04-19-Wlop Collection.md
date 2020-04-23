@@ -54,9 +54,9 @@ tags: Wlop
 |45|WLOP Village|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhFJTdRT4tntKAC-CI910Lt|![](https://i.imgur.com/kjt6qBO.jpg)|
 |46|WLOP Wake 1|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgElKSDN4GZ-AMpdDABQJEE|![](https://i.imgur.com/8SrGlI1.jpg)|
 |47|WLOP War|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiIxig8s5jjbsH3KeP8t3fc|![](https://i.imgur.com/8KvCOKW.jpg)|
-|48|WLOP Water|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjZU3ypoxXzSadhRQJ0CAto||
-|49|WLOP WeWereAngels|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiGOLCEVwtPG7XvOxFj9aHO||
-|50|WLOP Motorcycle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgHqLKplUyeIA9JyLi2S2iH||
+|48|WLOP Water|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjZU3ypoxXzSadhRQJ0CAto|![](https://i.imgur.com/KmKa4ey.jpg)|
+|49|WLOP WeWereAngels|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiGOLCEVwtPG7XvOxFj9aHO|![](https://i.imgur.com/ODFTTY2.jpg)|
+|50|WLOP Motorcycle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgHqLKplUyeIA9JyLi2S2iH|![](https://i.imgur.com/ODFTTY2.jpg)|
 |51|WLOP Window|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCv0s8Y9-fi3xLvVYNa0YD||
 |52|WLOP Lightning|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7vOnGo9sPdWD_vwLtchJ5||
 |53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm||
@@ -107,7 +107,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjcwMjk5MiwyOTk5NDkyNTUsLTY1Nz
+eyJoaXN0b3J5IjpbMTYyMjA5MDUxNSwyOTk5NDkyNTUsLTY1Nz
 M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
 ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
 k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
