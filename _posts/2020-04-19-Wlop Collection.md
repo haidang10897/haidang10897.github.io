@@ -97,17 +97,17 @@ tags: Wlop
 |88 |Wlop Sin |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjALzGiF8P7CQX5DtmQD4UH |![](https://i.imgur.com/mKwKbYW.jpg)|
 |89 |Wlop Sylvanas |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRoS7_J0z3wVtr1fGu2VYo|![](https://i.imgur.com/ucDGedZ.jpg) |
 |90 |Wlop Tifa |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj_PmSKGPe6So-qstu_KJ1_ |![](https://i.imgur.com/eGJAoVN.jpg)|
-|91 |Wlop Violet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjl9d7DgRI3GeBBlQMhpAjw|![](https://i.imgur.com/eGJAoVN.jpg)|
-|92 |Wlop Violet 2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgIQ60DQPGO_gAH6myaBT5u| |
-|93 |Wlop Zack | https://www.youtube.com/playlist?list=PL5D4ygJQLkjipmFBnLc-2UdpLCbi_AZ1P||
-|94 |Wlop Ceremonial3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg6zz1seGM6dbdiGWfysoA- ||
+|91 |Wlop Violet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjl9d7DgRI3GeBBlQMhpAjw|![](https://i.imgur.com/PbHKaVh.jpg)|
+|92 |Wlop Violet 2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgIQ60DQPGO_gAH6myaBT5u|![](https://i.imgur.com/ZhyuxHJ.jpg) |
+|93 |Wlop Zack | https://www.youtube.com/playlist?list=PL5D4ygJQLkjipmFBnLc-2UdpLCbi_AZ1P|![](https://i.imgur.com/2LJfEIH.jpg)|
+|94 |Wlop Ceremonial3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg6zz1seGM6dbdiGWfysoA- |![](https://i.imgur.com/3mRQBw2.jpg)|
 |95 |Wlop Landing | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgSpxGKfw5J7jt2-OMtBGo4||
 |96 |Wlop Ashe | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgMNG1sJ_aODm3P5XrDV2lv||
 |97 |Wlop Sephiroth |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhE-em9ewO0xm0-BQYugqj1| |
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDY3Mjg4NiwtMTY5OTAzOTQ1OCwyOT
+eyJoaXN0b3J5IjpbLTYwMzgzMTE5NSwtMTY5OTAzOTQ1OCwyOT
 k5NDkyNTUsLTY1NzM2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3
 Mjk2LC00NTMzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLD
 E0NTI0MDU0MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1
