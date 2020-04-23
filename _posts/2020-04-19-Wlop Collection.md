@@ -37,8 +37,8 @@ tags: Wlop
 |28|WLOP Feather 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUUH-pin3pFXD_Xd7Ciyhc|![](https://i.imgur.com/ccA8XCd.jpg)|
 |29|WLOP Sacrifice|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjdcITAT-Sn8ofx2r5_R3n3|![](https://i.imgur.com/oP5mumO.jpg)|
 |30|WLOP Gyarados|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjx_iwUiR_TlHA3__IF6ypk|![](https://i.imgur.com/gnX2K7F.jpg)|
-|31|WLOP Jade|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjrkXhQ8gNmqMo2-UV8iYpO|![](https://i.imgur.com/gnX2K7F.jpg)|
-|32|WLOP Jeer|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhx7UtYQiqEc0drTz7jSZPG||
+|31|WLOP Jade|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjrkXhQ8gNmqMo2-UV8iYpO|![](https://i.imgur.com/tPHNJ3C.jpg)|
+|32|WLOP Jeer|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhx7UtYQiqEc0drTz7jSZPG|![](https://i.imgur.com/tPHNJ3C.jpg)|
 |33|WLOP Kui|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhmh7qy-C3P0c76bbxpopIH||
 |34|WLOP Light|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhdg1XZ32cTD53xHCZtiWMX||
 |35|WLOP Moon and Night|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjxUYPiwc1IGkXsJ55xzJ_F||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDEyMTk4LDIwNDQzMjM3NTYsLTE5Mj
-Y3ODcyOTYsLTQ1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3
-MzAsMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0OTk3LD
-E5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2
-OTQ5NV19
+eyJoaXN0b3J5IjpbMTU2MzEzMTczOCwyMDQ0MzIzNzU2LC0xOT
+I2Nzg3Mjk2LC00NTMzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1
+NzMwLDE0NTI0MDU0MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5Ny
+wxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5
+Njk0OTVdfQ==
 -->
