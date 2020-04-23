@@ -92,8 +92,8 @@ tags: Wlop
 |83 |Wlop Luna| https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCyE54P-ekii_UKZAyJXdE|![](https://i.imgur.com/MuNkbGT.jpg)|
 |84 |Wlop North |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjC_yi_HtVQMjsQcWrgsTpN |![](https://i.imgur.com/7lt84Ri.jpg)|
 |85 |Wlop Puppet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgVe3marLBU-JO-yiW0HrLY |![](https://i.imgur.com/yxMlcXp.jpg)|
-|86 |Wlop Reaper | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjpg2y8WBxP_KT2zSkYgVue|![](https://i.imgur.com/yxMlcXp.jpg)|
-|87 |Wlop Sarlia2 | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjAp61OINLzENePI79hl02r||
+|86 |Wlop Reaper | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjpg2y8WBxP_KT2zSkYgVue|![](https://i.imgur.com/bYCvYxu.jpg)|
+|87 |Wlop Sarlia2 | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjAp61OINLzENePI79hl02r|![](https://i.imgur.com/QixCOvB.jpg)|
 |88 |Wlop Sin |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjALzGiF8P7CQX5DtmQD4UH ||
 |89 |Wlop Sylvanas |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRoS7_J0z3wVtr1fGu2VYo| |
 |90 |Wlop Tifa |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj_PmSKGPe6So-qstu_KJ1_ ||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjk4OTM4LDI5OTk0OTI1NSwtNjU3Mz
-Y1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4
-Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOT
-UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
-MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTE2OTkwMzk0NTgsMjk5OTQ5MjU1LC02NT
+czNjU2OTMsMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUz
+NTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLD
+E5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4
+MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
 -->
