@@ -50,8 +50,8 @@ tags: Wlop
 |41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o|![](https://i.imgur.com/BzBqutJ.jpg)|
 |42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np|![](https://i.imgur.com/mSUO5wt.jpg)|
 |43|WLOP Saber|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiWHnLcyMAYGj0ZSPwh7pbU|![](https://i.imgur.com/2LK4LHQ.jpg)|
-|44|WLOP Silence|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgqhLf9WELh7XC3AlD-qNrr|![](https://i.imgur.com/2LK4LHQ.jpg)|
-|45|WLOP Village|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhFJTdRT4tntKAC-CI910Lt||
+|44|WLOP Silence|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgqhLf9WELh7XC3AlD-qNrr|![](https://i.imgur.com/NPfBgFv.jpg)|
+|45|WLOP Village|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhFJTdRT4tntKAC-CI910Lt|![](https://i.imgur.com/kjt6qBO.jpg)|
 |46|WLOP Wake 1|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgElKSDN4GZ-AMpdDABQJEE||
 |47|WLOP War|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiIxig8s5jjbsH3KeP8t3fc||
 |48|WLOP Water|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjZU3ypoxXzSadhRQJ0CAto||
@@ -107,7 +107,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDg3MDEyLC02NTczNjU2OTMsMjA0ND
+eyJoaXN0b3J5IjpbMjk5OTQ5MjU1LC02NTczNjU2OTMsMjA0ND
 MyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUzNTg3LDkzMDU3ODcw
 MSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLDE5NTE4Njc5OTAsLT
 EwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NTAy
