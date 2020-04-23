@@ -57,10 +57,10 @@ tags: Wlop
 |48|WLOP Water|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjZU3ypoxXzSadhRQJ0CAto|![](https://i.imgur.com/KmKa4ey.jpg)|
 |49|WLOP WeWereAngels|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiGOLCEVwtPG7XvOxFj9aHO|![](https://i.imgur.com/ODFTTY2.jpg)|
 |50|WLOP Motorcycle|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgHqLKplUyeIA9JyLi2S2iH|![](https://i.imgur.com/UKm6oWE.jpg)|
-|51|WLOP Window|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCv0s8Y9-fi3xLvVYNa0YD||
-|52|WLOP Lightning|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7vOnGo9sPdWD_vwLtchJ5||
-|53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm||
-|54|Wlop Seria|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhi3_Dn3pnHXNY7InOUcXbG||
+|51|WLOP Window|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCv0s8Y9-fi3xLvVYNa0YD|![](https://i.imgur.com/DqjR1ny.jpg)|
+|52|WLOP Lightning|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7vOnGo9sPdWD_vwLtchJ5|![](https://i.imgur.com/cgZNEZE.jpg)|
+|53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm|![](https://i.imgur.com/UaFuEJF.jpg)|
+|54|Wlop Seria|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhi3_Dn3pnHXNY7InOUcXbG|![](https://i.imgur.com/HsGLnd8.jpg)|
 |55|Wlop Wake 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh8BjDAQE250jlioX1YMljZ||
 |56|Wlop Whale|https://www.youtube.com/playlist?list=PL5D4ygJQLkji_7ct5fro61rdT2XKzPtRJ||
 |57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMTI1MjIzLDI5OTk0OTI1NSwtNjU3Mz
-Y1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4
-Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOT
-UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
-MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTIwOTMwOTIwNiwyOTk5NDkyNTUsLTY1Nz
+M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
+ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
+k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
+NzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
