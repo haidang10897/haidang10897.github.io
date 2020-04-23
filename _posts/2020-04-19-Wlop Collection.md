@@ -50,7 +50,7 @@ tags: Wlop
 |41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o|![](https://i.imgur.com/BzBqutJ.jpg)|
 |42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np|![](https://i.imgur.com/mSUO5wt.jpg)|
 |43|WLOP Saber|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiWHnLcyMAYGj0ZSPwh7pbU|![](https://i.imgur.com/2LK4LHQ.jpg)|
-|44|WLOP Silence|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgqhLf9WELh7XC3AlD-qNrr||
+|44|WLOP Silence|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgqhLf9WELh7XC3AlD-qNrr|![](https://i.imgur.com/2LK4LHQ.jpg)|
 |45|WLOP Village|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhFJTdRT4tntKAC-CI910Lt||
 |46|WLOP Wake 1|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgElKSDN4GZ-AMpdDABQJEE||
 |47|WLOP War|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiIxig8s5jjbsH3KeP8t3fc||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODU3OTU4NywtNjU3MzY1NjkzLDIwND
-QzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4Nyw5MzA1Nzg3
-MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC
-0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUw
-MjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTY1MDg3MDEyLC02NTczNjU2OTMsMjA0ND
+MyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUzNTg3LDkzMDU3ODcw
+MSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLDE5NTE4Njc5OTAsLT
+EwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4MzcyMzEsMjA2NTAy
+NTMzNiwtNDcxOTY5NDk1XX0=
 -->
