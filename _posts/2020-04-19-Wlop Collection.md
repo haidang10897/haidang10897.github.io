@@ -42,9 +42,9 @@ tags: Wlop
 |33|WLOP Kui|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhmh7qy-C3P0c76bbxpopIH|![](https://i.imgur.com/uuc2oo0.jpg)|
 |34|WLOP Light|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhdg1XZ32cTD53xHCZtiWMX|![](https://i.imgur.com/5VtJECR.jpg)|
 |35|WLOP Moon and Night|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjxUYPiwc1IGkXsJ55xzJ_F|![](https://i.imgur.com/e52G9TD.jpg)|
-|36|WLOP Mother|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgbR9IeOii9Y-dx8LzyeTKd|![](https://i.imgur.com/e52G9TD.jpg)|
-|37|WLOP Mumei wallpaper|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRRraTSit4XH6tDuswTXFt||
-|38|WLOP NierDLC|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjmUKFr7fkvJZcOHKc2kwj3||
+|36|WLOP Mother|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgbR9IeOii9Y-dx8LzyeTKd|![](https://i.imgur.com/AlcV4Fq.jpg)|
+|37|WLOP Mumei wallpaper|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRRraTSit4XH6tDuswTXFt|![](https://i.imgur.com/c2vLpzK.jpg)|
+|38|WLOP NierDLC|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjmUKFr7fkvJZcOHKc2kwj3|![](https://i.imgur.com/wUuFugC.jpg)|
 |39|WLOP Pale|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjBPHmoyTBFcvEsP_Uk5UsU||
 |40|WLOP Princess|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgaCkP23SIFoDL51-F5L645||
 |41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o||
@@ -107,7 +107,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NDQzMzk3LDIwNDQzMjM3NTYsLTE5Mj
+eyJoaXN0b3J5IjpbODMyODQ4NTE0LDIwNDQzMjM3NTYsLTE5Mj
 Y3ODcyOTYsLTQ1MzM1MzU4Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3
 MzAsMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC0xMDY2MzE0OTk3LD
 E5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUwMjUzMzYsLTQ3MTk2
