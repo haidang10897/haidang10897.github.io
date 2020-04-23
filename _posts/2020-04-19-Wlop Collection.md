@@ -62,14 +62,14 @@ tags: Wlop
 |53|Wlop Nap|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh7spv-mXEwaXIBFfBvMGtm|![](https://i.imgur.com/UaFuEJF.jpg)|
 |54|Wlop Seria|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhi3_Dn3pnHXNY7InOUcXbG|![](https://i.imgur.com/HsGLnd8.jpg)|
 |55|Wlop Wake 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh8BjDAQE250jlioX1YMljZ|![](https://i.imgur.com/UrZvMG9.jpg)|
-|56|Wlop Whale|https://www.youtube.com/playlist?list=PL5D4ygJQLkji_7ct5fro61rdT2XKzPtRJ||
-|57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY||
-|58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ ||
-|59|Wlop Deathknight |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgFT1rVTawYJJD1frqxOq9D| |
-|60 |Wlop Die |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2uGyzXXq93AJ6eXwgTHNU ||
-|61 |Wlop Draenei |https://www.youtube.com/playlist?list=PL5D4ygJQLkjih78dSuo2-ZA4XPDfYD8Bq| |
-|62 |Wlop Duel(Aeolian vs. Lenia) |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg83u190ozo8kA-1Qk2qyDo ||
-|63 |Wlop Fall_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVo1U_tGw_RiCWojawRMyA ||
+|56|Wlop Whale|https://www.youtube.com/playlist?list=PL5D4ygJQLkji_7ct5fro61rdT2XKzPtRJ|![](https://i.imgur.com/5wNkRfQ.jpg)|
+|57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY|![](https://i.imgur.com/fphciPb.jpg)|
+|58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ |![](https://i.imgur.com/UrZvMG9.jpg)|
+|59|Wlop Deathknight |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgFT1rVTawYJJD1frqxOq9D| ![](https://i.imgur.com/UrZvMG9.jpg)|
+|60 |Wlop Die |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2uGyzXXq93AJ6eXwgTHNU |![](https://i.imgur.com/UrZvMG9.jpg)|
+|61 |Wlop Draenei |https://www.youtube.com/playlist?list=PL5D4ygJQLkjih78dSuo2-ZA4XPDfYD8Bq|![](https://i.imgur.com/UrZvMG9.jpg) |
+|62 |Wlop Duel(Aeolian vs. Lenia) |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg83u190ozo8kA-1Qk2qyDo |![](https://i.imgur.com/UrZvMG9.jpg)|
+|63 |Wlop Fall_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVo1U_tGw_RiCWojawRMyA |![](https://i.imgur.com/UrZvMG9.jpg)|
 |64 |Wlop Fate Anniversary |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhd4FL_sc_d9quOmBS_eEe ||
 |65 |Wlop Frankenstein |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2PFvwne7PibiLGDz6rC70 ||
 |66 |Wlop Hometown_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjh-kdHxXYozJot33ECuguF- ||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwOTU4NTc1LDI5OTk0OTI1NSwtNjU3Mz
-Y1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4
-Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOT
-UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
-MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbLTEzMjE0MDYyMjcsMjk5OTQ5MjU1LC02NT
+czNjU2OTMsMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUz
+NTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLD
+E5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4
+MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
 -->
