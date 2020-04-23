@@ -64,8 +64,8 @@ tags: Wlop
 |55|Wlop Wake 2|https://www.youtube.com/playlist?list=PL5D4ygJQLkjh8BjDAQE250jlioX1YMljZ|![](https://i.imgur.com/UrZvMG9.jpg)|
 |56|Wlop Whale|https://www.youtube.com/playlist?list=PL5D4ygJQLkji_7ct5fro61rdT2XKzPtRJ|![](https://i.imgur.com/5wNkRfQ.jpg)|
 |57|Wlop Yuna|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhuySqqt1g738QBHculJaaY|![](https://i.imgur.com/fphciPb.jpg)|
-|58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ |![](https://i.imgur.com/UrZvMG9.jpg)|
-|59|Wlop Deathknight |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgFT1rVTawYJJD1frqxOq9D| ![](https://i.imgur.com/UrZvMG9.jpg)|
+|58|Wlop Bow |https://www.youtube.com/playlist?list=PL5D4ygJQLkjhhJoeL2n5xPoDXFoWs_4UJ |![](https://i.imgur.com/AMCBQCz.jpg)|
+|59|Wlop Deathknight |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgFT1rVTawYJJD1frqxOq9D| ![](https://i.imgur.com/qayxlUs.jpg)|
 |60 |Wlop Die |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2uGyzXXq93AJ6eXwgTHNU |![](https://i.imgur.com/UrZvMG9.jpg)|
 |61 |Wlop Draenei |https://www.youtube.com/playlist?list=PL5D4ygJQLkjih78dSuo2-ZA4XPDfYD8Bq|![](https://i.imgur.com/UrZvMG9.jpg) |
 |62 |Wlop Duel(Aeolian vs. Lenia) |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg83u190ozo8kA-1Qk2qyDo |![](https://i.imgur.com/UrZvMG9.jpg)|
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE0MDYyMjcsMjk5OTQ5MjU1LC02NT
-czNjU2OTMsMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUz
-NTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLD
-E5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4
-MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbLTE2NzI4Mjk2NSwyOTk5NDkyNTUsLTY1Nz
+M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
+ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
+k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
+NzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
