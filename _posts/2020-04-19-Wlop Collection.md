@@ -82,10 +82,10 @@ tags: Wlop
 |73 |Wlop Sea |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjvBwMIGoGzyj30hbY9Y1Tr |![](https://i.imgur.com/9RgbEhU.jpg)|
 |74 |Wlop Tattoo |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgI1nVpQiBr53vsHWnNwmRR|![](https://i.imgur.com/s4sRULw.jpg) |
 |75 |Wlop Aeolian3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjDM35GZoWKITW7P3c4uUIZ|![](https://i.imgur.com/cr2AzNI.jpg)|
-|76 |Wlop Aldrich |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiuXUDogSurRDNphuwzVkzY ||
-|77 |Wlop Ceremonial2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgk2Tq0kLfq_Cuwod898a7I| |
-|78 |Wlop Dream |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqJM3FpNgk9Se-UmQQ0A3z ||
-|79 |Wlop Freak | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgtMLvpSbhYxzSo7WBx6ahA||
+|76 |Wlop Aldrich |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiuXUDogSurRDNphuwzVkzY |![](https://i.imgur.com/qakiMmc.jpg)|
+|77 |Wlop Ceremonial2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgk2Tq0kLfq_Cuwod898a7I|![](https://i.imgur.com/ytNgjIQ.jpg) |
+|78 |Wlop Dream |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqJM3FpNgk9Se-UmQQ0A3z |![](https://i.imgur.com/VhCRK1E.jpg)|
+|79 |Wlop Freak | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgtMLvpSbhYxzSo7WBx6ahA|![](https://i.imgur.com/VhCRK1E.jpg)|
 |80 |Wlop HelloKitty |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj4bE4xYaomKonC9XbjFqW3| |
 |81 |Wlop Hunter |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgRHo9pVM7gGQF8F516r7eD ||
 |82 |Wlop LonelyParade3D |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgmftsb8H9KtHEUTS28qV-A| |
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc5MDUwODQsMjk5OTQ5MjU1LC02NT
-czNjU2OTMsMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUz
-NTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLD
-E5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4
-MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbMzI5OTI3MDczLDI5OTk0OTI1NSwtNjU3Mz
+Y1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4
+Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOT
+UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
+MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
 -->
