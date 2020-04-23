@@ -48,8 +48,8 @@ tags: Wlop
 |39|WLOP Pale|https://www.youtube.com/playlist?list=PL5D4ygJQLkjjBPHmoyTBFcvEsP_Uk5UsU|![](https://i.imgur.com/UWmJO5W.jpg)|
 |40|WLOP Princess|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgaCkP23SIFoDL51-F5L645|![](https://i.imgur.com/rbFXktG.jpg)|
 |41|WLOP Red|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiOe8ypv6lNhSLCYcgYEW3o|![](https://i.imgur.com/BzBqutJ.jpg)|
-|42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np||
-|43|WLOP Saber|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiWHnLcyMAYGj0ZSPwh7pbU||
+|42|WLOP Ruler|https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-OJ2ZmDLjixQzV_gum2np|![](https://i.imgur.com/mSUO5wt.jpg)|
+|43|WLOP Saber|https://www.youtube.com/playlist?list=PL5D4ygJQLkjiWHnLcyMAYGj0ZSPwh7pbU|![](https://i.imgur.com/2LK4LHQ.jpg)|
 |44|WLOP Silence|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgqhLf9WELh7XC3AlD-qNrr||
 |45|WLOP Village|https://www.youtube.com/playlist?list=PL5D4ygJQLkjhFJTdRT4tntKAC-CI910Lt||
 |46|WLOP Wake 1|https://www.youtube.com/playlist?list=PL5D4ygJQLkjgElKSDN4GZ-AMpdDABQJEE||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzM2NTY5MywyMDQ0MzIzNzU2LC0xOT
-I2Nzg3Mjk2LC00NTMzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1
-NzMwLDE0NTI0MDU0MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5Ny
-wxOTc1NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5
-Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbMTg3ODU3OTU4NywtNjU3MzY1NjkzLDIwND
+QzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4Nyw5MzA1Nzg3
+MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOTUxODY3OTkwLC
+0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3MjMxLDIwNjUw
+MjUzMzYsLTQ3MTk2OTQ5NV19
 -->
