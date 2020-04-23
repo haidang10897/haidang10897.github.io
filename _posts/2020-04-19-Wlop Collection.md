@@ -94,10 +94,10 @@ tags: Wlop
 |85 |Wlop Puppet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgVe3marLBU-JO-yiW0HrLY |![](https://i.imgur.com/yxMlcXp.jpg)|
 |86 |Wlop Reaper | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjpg2y8WBxP_KT2zSkYgVue|![](https://i.imgur.com/bYCvYxu.jpg)|
 |87 |Wlop Sarlia2 | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjAp61OINLzENePI79hl02r|![](https://i.imgur.com/QixCOvB.jpg)|
-|88 |Wlop Sin |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjALzGiF8P7CQX5DtmQD4UH ||
-|89 |Wlop Sylvanas |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRoS7_J0z3wVtr1fGu2VYo| |
-|90 |Wlop Tifa |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj_PmSKGPe6So-qstu_KJ1_ ||
-|91 |Wlop Violet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjl9d7DgRI3GeBBlQMhpAjw||
+|88 |Wlop Sin |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjALzGiF8P7CQX5DtmQD4UH |![](https://i.imgur.com/mKwKbYW.jpg)|
+|89 |Wlop Sylvanas |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRoS7_J0z3wVtr1fGu2VYo|![](https://i.imgur.com/ucDGedZ.jpg) |
+|90 |Wlop Tifa |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj_PmSKGPe6So-qstu_KJ1_ |![](https://i.imgur.com/eGJAoVN.jpg)|
+|91 |Wlop Violet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjl9d7DgRI3GeBBlQMhpAjw|![](https://i.imgur.com/eGJAoVN.jpg)|
 |92 |Wlop Violet 2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgIQ60DQPGO_gAH6myaBT5u| |
 |93 |Wlop Zack | https://www.youtube.com/playlist?list=PL5D4ygJQLkjipmFBnLc-2UdpLCbi_AZ1P||
 |94 |Wlop Ceremonial3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg6zz1seGM6dbdiGWfysoA- ||
@@ -107,9 +107,10 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkwMzk0NTgsMjk5OTQ5MjU1LC02NT
-czNjU2OTMsMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUz
-NTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLD
-E5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4
-MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbMTk4MDY3Mjg4NiwtMTY5OTAzOTQ1OCwyOT
+k5NDkyNTUsLTY1NzM2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3
+Mjk2LC00NTMzNTM1ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLD
+E0NTI0MDU0MDIsMTk1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1
+NTMxMTcxLDM0NTgzNzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OT
+VdfQ==
 -->
