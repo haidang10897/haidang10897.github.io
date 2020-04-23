@@ -86,10 +86,10 @@ tags: Wlop
 |77 |Wlop Ceremonial2 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgk2Tq0kLfq_Cuwod898a7I|![](https://i.imgur.com/ytNgjIQ.jpg) |
 |78 |Wlop Dream |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiqJM3FpNgk9Se-UmQQ0A3z |![](https://i.imgur.com/VhCRK1E.jpg)|
 |79 |Wlop Freak | https://www.youtube.com/playlist?list=PL5D4ygJQLkjgtMLvpSbhYxzSo7WBx6ahA|![](https://i.imgur.com/QxS05gk.jpg)|
-|80 |Wlop HelloKitty |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj4bE4xYaomKonC9XbjFqW3| ![](https://i.imgur.com/QxS05gk.jpg)|
-|81 |Wlop Hunter |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgRHo9pVM7gGQF8F516r7eD ||
-|82 |Wlop LonelyParade3D |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgmftsb8H9KtHEUTS28qV-A| |
-|83 |Wlop Luna| https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCyE54P-ekii_UKZAyJXdE||
+|80 |Wlop HelloKitty |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj4bE4xYaomKonC9XbjFqW3| ![](https://i.imgur.com/APezBqK.jpg)|
+|81 |Wlop Hunter |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgRHo9pVM7gGQF8F516r7eD |![](https://i.imgur.com/8TCojuY.jpg)|
+|82 |Wlop LonelyParade3D |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgmftsb8H9KtHEUTS28qV-A|![](https://i.imgur.com/xEdPGPG.jpg) |
+|83 |Wlop Luna| https://www.youtube.com/playlist?list=PL5D4ygJQLkjgCyE54P-ekii_UKZAyJXdE|![](https://i.imgur.com/xEdPGPG.jpg)|
 |84 |Wlop North |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjC_yi_HtVQMjsQcWrgsTpN ||
 |85 |Wlop Puppet |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgVe3marLBU-JO-yiW0HrLY ||
 |86 |Wlop Reaper | https://www.youtube.com/playlist?list=PL5D4ygJQLkjjpg2y8WBxP_KT2zSkYgVue||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MzE2NTU4LDI5OTk0OTI1NSwtNjU3Mz
-Y1NjkzLDIwNDQzMjM3NTYsLTE5MjY3ODcyOTYsLTQ1MzM1MzU4
-Nyw5MzA1Nzg3MDEsLTE2ODYzMjU3MzAsMTQ1MjQwNTQwMiwxOT
-UxODY3OTkwLC0xMDY2MzE0OTk3LDE5NzU1MzExNzEsMzQ1ODM3
-MjMxLDIwNjUwMjUzMzYsLTQ3MTk2OTQ5NV19
+eyJoaXN0b3J5IjpbMTEzMzY1MzU0MiwyOTk5NDkyNTUsLTY1Nz
+M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
+ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
+k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
+NzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
