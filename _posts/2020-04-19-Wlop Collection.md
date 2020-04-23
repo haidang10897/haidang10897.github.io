@@ -70,12 +70,12 @@ tags: Wlop
 |61 |Wlop Draenei |https://www.youtube.com/playlist?list=PL5D4ygJQLkjih78dSuo2-ZA4XPDfYD8Bq|![](https://i.imgur.com/TGR7RAI.jpg) |
 |62 |Wlop Duel(Aeolian vs. Lenia) |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg83u190ozo8kA-1Qk2qyDo |![](https://i.imgur.com/BnLhz1x.jpg)|
 |63 |Wlop Fall_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjVo1U_tGw_RiCWojawRMyA |![](https://i.imgur.com/WDYVXe8.jpg)|
-|64 |Wlop Fate Anniversary |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhd4FL_sc_d9quOmBS_eEe |![](https://i.imgur.com/WDYVXe8.jpg)|
-|65 |Wlop Frankenstein |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2PFvwne7PibiLGDz6rC70 ||
-|66 |Wlop Hometown_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjh-kdHxXYozJot33ECuguF- ||
-|67 |Wlop Kings |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgc2wU_yCZ4kCdfvN0A5i-7 ||
-|68 |Wlop Mipha |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-6qnvXuvvQYLpBxAeRAOd ||
-|69 |Wlop Nora |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRFDWBYuCYUjJ_O0FkifSH ||
+|64 |Wlop Fate Anniversary |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjhd4FL_sc_d9quOmBS_eEe |![](https://i.imgur.com/dNgHT3i.jpg)|
+|65 |Wlop Frankenstein |https://www.youtube.com/playlist?list=PL5D4ygJQLkjj2PFvwne7PibiLGDz6rC70 |![](https://i.imgur.com/ttArl7P.jpg)|
+|66 |Wlop Hometown_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjh-kdHxXYozJot33ECuguF- |![](https://i.imgur.com/Dn5nwyc.jpg)|
+|67 |Wlop Kings |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgc2wU_yCZ4kCdfvN0A5i-7 |![](https://i.imgur.com/QKE2RaG.jpg)|
+|68 |Wlop Mipha |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-6qnvXuvvQYLpBxAeRAOd |![](https://i.imgur.com/c0JMUE9.jpg)|
+|69 |Wlop Nora |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRFDWBYuCYUjJ_O0FkifSH |![](https://i.imgur.com/c0JMUE9.jpg)|
 |70 |Wlop Oath |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiJc6uTFYD8ukRSECXFY8o1 ||
 |71 |Wlop Princess Mononoke |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUurXxbZFwvXdw3KT2L2V_ ||
 |72 |Wlop Reborn_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgLzGvrXaVulvU2sXAD6jh1||
@@ -107,9 +107,9 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI2NzY1MTcsMjk5OTQ5MjU1LC02NT
-czNjU2OTMsMjA0NDMyMzc1NiwtMTkyNjc4NzI5NiwtNDUzMzUz
-NTg3LDkzMDU3ODcwMSwtMTY4NjMyNTczMCwxNDUyNDA1NDAyLD
-E5NTE4Njc5OTAsLTEwNjYzMTQ5OTcsMTk3NTUzMTE3MSwzNDU4
-MzcyMzEsMjA2NTAyNTMzNiwtNDcxOTY5NDk1XX0=
+eyJoaXN0b3J5IjpbMTIxOTQwNzQ2NSwyOTk5NDkyNTUsLTY1Nz
+M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
+ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
+k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
+NzIzMSwyMDY1MDI1MzM2LC00NzE5Njk0OTVdfQ==
 -->
