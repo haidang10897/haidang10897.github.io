@@ -75,11 +75,11 @@ tags: Wlop
 |66 |Wlop Hometown_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjh-kdHxXYozJot33ECuguF- |![](https://i.imgur.com/Dn5nwyc.jpg)|
 |67 |Wlop Kings |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgc2wU_yCZ4kCdfvN0A5i-7 |![](https://i.imgur.com/QKE2RaG.jpg)|
 |68 |Wlop Mipha |https://www.youtube.com/playlist?list=PL5D4ygJQLkjg-6qnvXuvvQYLpBxAeRAOd |![](https://i.imgur.com/c0JMUE9.jpg)|
-|69 |Wlop Nora |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRFDWBYuCYUjJ_O0FkifSH |![](https://i.imgur.com/c0JMUE9.jpg)|
-|70 |Wlop Oath |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiJc6uTFYD8ukRSECXFY8o1 ||
-|71 |Wlop Princess Mononoke |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUurXxbZFwvXdw3KT2L2V_ ||
-|72 |Wlop Reborn_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgLzGvrXaVulvU2sXAD6jh1||
-|73 |Wlop Sea |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjvBwMIGoGzyj30hbY9Y1Tr ||
+|69 |Wlop Nora |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjRFDWBYuCYUjJ_O0FkifSH |![](https://i.imgur.com/HiND4Wd.jpg)|
+|70 |Wlop Oath |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiJc6uTFYD8ukRSECXFY8o1 |![](https://i.imgur.com/qwcndf3.jpg)|
+|71 |Wlop Princess Mononoke |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiUurXxbZFwvXdw3KT2L2V_ |![](https://i.imgur.com/B2Zrlc0.jpg)|
+|72 |Wlop Reborn_dnf |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgLzGvrXaVulvU2sXAD6jh1|![](https://i.imgur.com/4DwDZte.jpg)|
+|73 |Wlop Sea |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjvBwMIGoGzyj30hbY9Y1Tr |![](https://i.imgur.com/4DwDZte.jpg)|
 |74 |Wlop Tattoo |https://www.youtube.com/playlist?list=PL5D4ygJQLkjgI1nVpQiBr53vsHWnNwmRR| |
 |75 |Wlop Aeolian3 |https://www.youtube.com/playlist?list=PL5D4ygJQLkjjDM35GZoWKITW7P3c4uUIZ| |
 |76 |Wlop Aldrich |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiuXUDogSurRDNphuwzVkzY ||
@@ -107,7 +107,7 @@ tags: Wlop
 |98 |Wlop Beginner Fundamental |https://www.youtube.com/playlist?list=PL5D4ygJQLkjiaWy8pvMOgBTM4PzRfnDZm ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTQwNzQ2NSwyOTk5NDkyNTUsLTY1Nz
+eyJoaXN0b3J5IjpbMTU0NzI0ODIxNywyOTk5NDkyNTUsLTY1Nz
 M2NTY5MywyMDQ0MzIzNzU2LC0xOTI2Nzg3Mjk2LC00NTMzNTM1
 ODcsOTMwNTc4NzAxLC0xNjg2MzI1NzMwLDE0NTI0MDU0MDIsMT
 k1MTg2Nzk5MCwtMTA2NjMxNDk5NywxOTc1NTMxMTcxLDM0NTgz
